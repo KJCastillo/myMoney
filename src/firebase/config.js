@@ -21,4 +21,4 @@ const firebaseConfig = {
   //timestamp
   const timestamp = firebase.firestore.Timestamp
 
-  export { projectFirestore, projectAuth }
+  export { projectFirestore, projectAuth, timestamp }
