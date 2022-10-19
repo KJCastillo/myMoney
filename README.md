@@ -7,6 +7,6 @@
 - Add and Delete transactions
 - Custom React Hooks created to interact with Firebase
  
-> [myMoney](https://https://my-money-pi.vercel.app/)
+> [myMoney](https://my-money-pi.vercel.app/)
 
 > By [Kevin Castillo](https://www.linkedin.com/in/kevinjcastillo/)
